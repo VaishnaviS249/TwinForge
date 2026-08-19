@@ -1,3 +1,4 @@
+
 # TwinForge — Mini Factory Machine Digital Twin
 
 A simulated industrial machine digital twin: live sensor telemetry (temperature, vibration, RPM), anomaly detection, and a health-score dashboard.
@@ -20,3 +21,6 @@ A simulated industrial machine digital twin: live sensor telemetry (temperature,
 - `docs/` — problem statement, requirements, architecture, UI design
 - `artifacts/` — project overview, API spec, test plan
 - `tests/` — test suite
+
+# TwinForge
+
