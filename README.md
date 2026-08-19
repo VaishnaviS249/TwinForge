@@ -23,4 +23,5 @@ A simulated industrial machine digital twin: live sensor telemetry (temperature,
 - `tests/` — test suite
 
 # TwinForge
+<img width="1867" height="843" alt="image" src="https://github.com/user-attachments/assets/f0789ad3-ba03-42a4-a87f-9e0d3181cbea" />
 
